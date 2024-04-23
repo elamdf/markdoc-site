@@ -1,0 +1,4 @@
+[submodule "obsidian"]
+	path = obsidian
+	url = git@github.com:elamdf/obsidian_elam.git
+	branch = main
